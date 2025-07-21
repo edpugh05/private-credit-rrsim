@@ -2,7 +2,7 @@
 
 Monte Carlo simulation framework analyzing private credit portfolio performance with live market data integration.
 
-![Dashboard](https://imgur.com/a/W6a76c5)
+https://imgur.com/a/W6a76c5
 
 ## Current Market Data
 *Updated: 2025-07-21 22:28:48*
